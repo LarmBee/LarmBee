@@ -9,8 +9,8 @@ I am a full stack developer who enjoys making software that changes the world an
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [MyPortfolio](http://brandonkanute.pythonanywhere.com/)
 * ✉️  You can contact me at [brandonkanute@gmail.com](mailto:brandonkanute@gmail.com)
-* 🚀  I'm currently working on [Netflix Clone(React)](http://netlify-project-14970.web.app/)
-* 🧠  I'm learning React Native and SQL
+* 🚀  I'm currently working on [Ecommerce Store(React,Commerce.js, Material UI)](https://duka254-1d07e.web.app//)
+* 🧠  I'm learning React Native and Mongo DB
 * 🤝  I'm open to collaborating on React projects and general Web Development work
 * ⚡  I am Iron Man but promise you wont tell anyone!
 
