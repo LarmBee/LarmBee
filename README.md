@@ -1,10 +1,10 @@
 Hi 👋 My name is Brandon Kanute
 ===============================
 
-Full Stack Developer |React| JavaScript|Ruby|Ruby on Rails
+Full Stack Developer |React| JavaScript|Ruby|Ruby on Rails|Material UI |Express|Python
 ----------------------------------------------------------
 
-I am a full stack developer who enjoys making software that changes the world and makes it a better place for everyone . I enjoy writing JavaScript ,Ruby on Rails, Ruby and React code .I am currently working on SQL as well
+I am a full stack developer who enjoys making software that changes the world and makes it a better place for everyone . I enjoy writing JavaScript ,Ruby on Rails, Ruby and React code .I am currently working on Mongo and Node JS as well
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [MyPortfolio](http://brandonkanute.pythonanywhere.com/)
